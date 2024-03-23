@@ -15,3 +15,5 @@ Author: Dharani-Thamizharasan
 6. Audio Call Feature
 
 7. Video Call Feature
+
+8. Status Feature
