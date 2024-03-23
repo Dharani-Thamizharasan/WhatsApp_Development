@@ -17,3 +17,5 @@ Author: Dharani-Thamizharasan
 7. Video Call Feature
 
 8. Status Feature
+
+9. Group Calling Feature upto 100 members
